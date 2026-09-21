@@ -1,9 +1,11 @@
-Welcome to Baikolano Empire, here are our members:
-
-Scrum Master - Joe Andre Roja
-
-Tester - Redge Rainier Sarmiento
-
-Security - Eures Nivrem Tinoco
-
-UI/UX - Phil Emmanuel Hitalia
+<div align="center">
+  
+# Welcome to Baikolano Empire, here are our members:
+|Name|Role|
+|-|-|
+|Joe Andre Roja|Scrum Master|
+|Redge Rainier Sarmiento|Tester|
+|Eures Nivrem Tinoco|Security|
+|Phil Emmanuel Hitalia|UI/UX|
+|Marc Miguel Ramirez|Backend|
+</div>
